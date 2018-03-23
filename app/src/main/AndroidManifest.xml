@@ -36,6 +36,10 @@
         </activity>
 
         <activity android:name=".annotation.AnnotationActivity">
+
+        </activity>
+
+        <activity android:name=".testApt.TestAptActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
