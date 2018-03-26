@@ -36,5 +36,5 @@ dependencies {
     compile project(':annotations')
     compile 'org.greenrobot:eventbus:3.1.1'
     annotationProcessor 'org.greenrobot:eventbus-annotation-processor:3.1.1'
-
+    implementation 'com.7heaven.widgets:gesturelock:1.3'
 }

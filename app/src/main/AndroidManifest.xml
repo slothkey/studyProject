@@ -40,6 +40,10 @@
         </activity>
 
         <activity android:name=".testApt.TestAptActivity">
+
+        </activity>
+
+        <activity android:name=".gestureLock.GestureLockActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
