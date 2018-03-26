@@ -44,6 +44,10 @@
         </activity>
 
         <activity android:name=".gestureLock.GestureLockActivity">
+
+        </activity>
+
+        <activity android:name=".signature.SignatureActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
